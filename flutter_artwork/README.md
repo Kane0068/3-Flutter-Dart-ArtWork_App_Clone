@@ -1,16 +1,8 @@
-# flutter_artwork
+# flutter_artwork_app_clone
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![Screenshot_1678500897](https://user-images.githubusercontent.com/120574274/224460277-153a0f43-ca9f-445f-bf9a-d3bfb26095d0.png)
+![Screenshot_1678500891](https://user-images.githubusercontent.com/120574274/224460289-96b234ce-7303-495d-8f32-5eee9d984959.png)
+![Screenshot_1678501060](https://user-images.githubusercontent.com/120574274/224460284-be6628be-530d-4f30-82c6-fe6eb19c2e19.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
